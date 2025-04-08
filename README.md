@@ -3,29 +3,23 @@ Welcome to my Amazon Clone — a clean and fully responsive static replica of th
 
 🚀 Features
 ✨ Realistic Layout & Styling
+
 Designed to match the real Amazon homepage
+
 Static navigation bar, delivery selector, search bar, and cart icon
 
 🖼️ Hero Section
-
 Includes a promotional message and geo-targeted banner prompt
 
 🛍️ Product Categories Section
-
 Various shopping boxes: Clothes, Electronics, Furniture, Beauty, Toys & more
 
 Image-based boxes with hover effects and headlines
 
 🧭 Navigation Panel
-
 Amazon-style menu with links like Today’s Deals, Customer Service, Gift Cards, etc.
 
-📱 Responsive Design
-
-Fully mobile-friendly using flexible layouts and modern CSS techniques
-
 🦶 Footer Section
-
 Professional footer with grouped links, branding, and legal text
 
 🧑‍💻 Tech Stack
