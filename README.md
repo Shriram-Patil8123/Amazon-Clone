@@ -32,6 +32,8 @@ Amazon Clone – Header & Navigation
 
 
 
+
+
 Amazon Clone – Product Section
 ![Amazon Clone Screenshot 2](https://github.com/Shriram-Patil8123/Amazon-Clone/blob/b7790527d4c619b6640707b8652e294f32c2167a/Screenshot2.png?raw=true)
 
