@@ -33,11 +33,8 @@ No setup required — runs directly from your local machine
 
 📁 Folder Structure
 
-graphql
-Copy
-Edit
-Amazon-Clone/
-│
-├── index.html          # Main HTML file  
-├── style.css           # CSS file for styling  
-├── images/             # Product images used in the layout  
+index.html → Main HTML file that contains the structure of the Amazon clone homepage
+
+style.css → CSS file that handles all the styling and layout
+
+images/ → Folder containing product and banner images used in the design
