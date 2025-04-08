@@ -3,9 +3,7 @@ Welcome to my Amazon Clone — a clean and fully responsive static replica of th
 
 🚀 Features
 ✨ Realistic Layout & Styling
-
 Designed to match the real Amazon homepage
-
 Static navigation bar, delivery selector, search bar, and cart icon
 
 🖼️ Hero Section
