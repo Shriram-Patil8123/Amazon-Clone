@@ -1,40 +1,38 @@
-🛍️ Amazon Clone
-Welcome to my Amazon Clone — a clean and fully responsive static replica of the Amazon homepage. This project showcases my front-end design using HTML, CSS, and Font Awesome to mimic the structure and styling of one of the world's biggest e-commerce platforms.
+🛒 Amazon Clone using HTML & CSS
+This is a static Amazon homepage clone built using only HTML and CSS. It is a front-end project made to replicate the visual design of the Amazon homepage and practice layout structuring, styling.
 
-🚀 Features
-✨ Realistic Layout & Styling
+🔧 Built With
+HTML5 – For the basic structure of the page
 
-Designed to match the real Amazon homepage
+CSS3 – For styling, layout, and  page design.
 
-Static navigation bar, delivery selector, search bar, and cart icon
 
-🖼️ Hero Section
-Includes a promotional message and geo-targeted banner prompt
+✨ Key Features
+Amazon-style navigation bar with logo, search bar, and cart icon
 
-🛍️ Product Categories Section
-Various shopping boxes: Clothes, Electronics, Furniture, Beauty, Toys & more
+Hero section with a promotional banner
 
-Image-based boxes with hover effects and headlines
+Product category boxes with background images
 
-🧭 Navigation Panel
-Amazon-style menu with links like Today’s Deals, Customer Service, Gift Cards, etc.
+Footer with grouped links and branding
 
-🦶 Footer Section
-Professional footer with grouped links, branding, and legal text
+Fully responsive design that adapts to various screen sizes
 
-🧑‍💻 Tech Stack
-HTML5 – Markup for page structure
 
-CSS3 – For layout, colors, spacing, and responsiveness
+🚀 How to Run
+Download or clone the repository
 
-Font Awesome – For rich UI icons (cart, search, menu, etc.)
+Open index.html with any web browser
 
-📂 Folder Structure
+No setup required — runs directly from your local machine
+
+
+📁 Folder Structure
 graphql
 Copy
 Edit
 Amazon-Clone/
 │
-├── index.html          # Main static HTML page
-├── style.css           # Stylesheet for layout and design
-├── boxX_image.jpg      # Image assets for category boxes
+├── index.html          # Main HTML file  
+├── style.css           # CSS file for styling  
+├── images/             # Product images used in the layout  
