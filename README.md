@@ -39,8 +39,3 @@ This front-end project replicates the visual design of the Amazon homepage to pr
 1. 📥 Download or clone the repository  
 2. 🌐 Open `index.html` in any web browser  
 3. ✅ No setup required — runs directly from your local machine
-
----
-
-## 📁 Folder Structure
-
