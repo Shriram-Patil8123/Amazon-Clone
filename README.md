@@ -7,8 +7,8 @@ This front-end project replicates the visual design of the Amazon homepage to pr
 
 ## 🛠️ Built With
 
-- **HTML5** – For the basic structure of the page  
-- **CSS3** – For styling, layout, and page design
+- **HTML** – For the basic structure of the page  
+- **CSS** – For styling, layout, and page design
 
 ---
 
